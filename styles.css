@@ -1,0 +1,24 @@
+html {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    background-color: rgba(120, 60, 160, 0.548);
+    color: hsl(60, 81%, 60%);
+    text-align: center;
+    font-family: cursive, Verdana, sans-serif;
+    font-size: 36px;
+}
+
+p {
+    text-align: center;
+}
+
+.desc {
+    background-color: firebrick;
+    color: cornflowerblue;
+    width: 800px;
+    margin: auto;
+    border: 5px solid rgba(120, 60, 160, 0.438);
+    text-align: center;
+}
